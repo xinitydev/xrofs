@@ -1,0 +1,54 @@
+Xinity License
+Version 1.0a, June 2020
+
+Copyright (c) 2020 Tymofii Khodniev / Xinity Group
+
+This is free software released into the public domain.
+
+"Xinity Group" shall mean a group of people, who took a significant part
+in process of developing the Software and accepted an invitation from
+Tymofii Khodniev to join the group, and who have not received notification
+of an exclusion from the group from Tymofii Khodniev or expressed their
+desire to leave the group on own will. All members of Xinity Group are listed
+in the most recent version of file "XAUTHORS.txt" placed alongside with this
+license.
+
+"Derived Works" shall mean any work, whether in source code or binary object
+form, that is based on this Software, EXCLUDING works which either use
+interfaces of this Software, or link to the compiled binary form of this
+Software in static or dynamic form.
+
+"Non-compete Agreement" shall mean an agreement not to enter in competition of
+any kind with the Xinity Group and its products available at the time of this
+Software started being used by You.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means, provided that the following conditions are met:
+
+(a) A copy of this License is provided alongside with the source code being
+distributed. Complied binary form of distribution DOES NOT require
+providing this license
+
+(b) Source code files of the Derived Works carry prominent notices stating
+changes made to the Software and a reference to this License
+
+(c) The Non-compete Agreement is accepted
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+
+If You have any questions regarding this License, its terms and conditions,
+feel free to
+write an e-mail to: thodnev < a t > xinity.dev  /  thodnev < a t > gmail.com
+send a message in Telegram messenger to: @thodnev
